@@ -5,6 +5,8 @@ This script updates Windows 10 desktop wallpaper to a random Astronomy Picture o
 Dependencies:
  
 urllib3 1.22 
+
+
 BeautifulSoup4 4.6.0
 
 
